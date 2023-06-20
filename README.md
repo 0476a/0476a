@@ -1,3 +1,12 @@
+<div align="center">
+  <h1>Hello! I'm ByeongSoo 👍</h1>
+
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0476a&count_bg=%235CD3D1&title_bg=%23584EC6&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://github.com/0476a)
+  
+</div>
+
+
+
 
 <!--
 **0476a/0476a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
