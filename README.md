@@ -29,8 +29,8 @@
   </div>
   
   ## 📖Study Blog📖
-  [![코딩오락실](https://github.com/0476a/0476a/assets/120405087/d869be12-9a9a-4b1c-927e-89b89a143ddf)](https://donotthinkjustdo.tistory.com/)
   [코딩오락실](https://donotthinkjustdo.tistory.com/)
+  [![텍스트](https://github.com/0476a/0476a/assets/120405087/d869be12-9a9a-4b1c-927e-89b89a143ddf)](https://donotthinkjustdo.tistory.com/)
 </div>
 
 
