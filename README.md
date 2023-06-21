@@ -29,9 +29,7 @@
   </div>
   
   ## 📖Study Blog📖
-  <a href="https://donotthinkjustdo.tistory.com/">
-      <img src="https://github.com/0476a/0476a/assets/120405087/d869be12-9a9a-4b1c-927e-89b89a143ddf" alt="코딩오락실">
-  </a>
+  [🖥️뿅뿅 코딩오락실💻](https://donotthinkjustdo.tistory.com/)
 </div>
 
 
