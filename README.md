@@ -31,7 +31,7 @@
   ## 📖Study Blog📖
   [🖥️뿅뿅 코딩오락실💻](https://donotthinkjustdo.tistory.com/)
 
-  ## 💻Portfolio💻
+  ## 🎞️Portfolio🎞️
   [병수 포트폴리오](https://github.com/0476a/0476a/files/12108686/2023.07.19.pdf)
 
 </div>
