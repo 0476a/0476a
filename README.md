@@ -42,7 +42,7 @@
   [🖥️뿅뿅 코딩오락실💻](https://donotthinkjustdo.tistory.com/)
 
   ## 🎞️Portfolio🎞️
-  [고병수 포트폴리오](https://github.com/user-attachments/files/24597703/2026.01.14.pdf)
+  [병수 포트폴리오](https://github.com/user-attachments/files/24597703/2026.01.14.pdf)
 
 </div>
 
