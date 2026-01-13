@@ -10,7 +10,7 @@
 
   <img src="https://github.com/0476a/0476a/assets/120405087/a190500e-ee5b-4839-84cf-cd766542ba70" style="width: 400px;"/>
 
-  ## 📀Languages and Tools📀
+  ### 📀Languages and Tools📀
 
   ## FrontEnd
   <div>
@@ -19,6 +19,7 @@
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
   </div>
+  
   ## BackEnd
   <div>
     <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"/>
